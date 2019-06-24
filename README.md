@@ -1,3 +1,2 @@
 # garvax
-
-React+Redux+React-navigation
+React+Redux+React-navigation simple boilerplate

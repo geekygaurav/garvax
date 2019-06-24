@@ -1,0 +1,216 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [:react-native-gesture-handler] /Users/hubino/Documents/Ref/MyProject/garvax/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.9] /Users/hubino/.gradle/caches/transforms-2/files-2.1/376b5c2aecc12441430c9bd4b12540cb/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/737f3824e3ae7afd63e26e1297d5fdf2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/0ba14d8290ab22f0d4be4366602c8835/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/94fcef9bb11c5b0f34895d61acc65834/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/acb7d259356fb17e10ecc107fdf5d607/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/8f5e7d6faafd4bb79b569f55acd887ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/e5e9420674ad658d3440a5db241dc12d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/278b8333f53346cd6a4b1cdeb77cbdac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/ebe8407c28cd4d08b8b93b5f306160a4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/bc0d3e22a4bdc600722d919fe5c225c0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/89cb81d7a382b8103d134cef83a1955f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/161a3562153bf1b8647a0579ceb279d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/b2912fa33b33bcf126ed5c49d6be5090/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/6d187b57d67a04f95eec0df038053922/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/d349728052ff2e96fdf27045f6311e37/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/6cafd39e22b64048a30de248f1f502ed/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/32d5c1195362bb0960bffecc8ff5ead6/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/018244a2df6594980b042762a1d9bb74/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/hubino/.gradle/caches/transforms-2/files-2.1/1092e8019e5aa727e6539045d4faf681/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/83894ecdefab0050e419ed6ec6d3db84/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/f7210efc45640dc90560eefab9093279/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/f1942df9cc229bad51965e5141e6d253/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/hubino/.gradle/caches/transforms-2/files-2.1/7093f2a7169bbd228773aa72a5dad0a4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/hubino/.gradle/caches/transforms-2/files-2.1/3acdbe910430b0f2245458bcbe51b212/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/hubino/.gradle/caches/transforms-2/files-2.1/91f1c1fbee629341b6336395d990f214/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/hubino/.gradle/caches/transforms-2/files-2.1/0c53afe10dd833978f376c3fbabf1024/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/d62a5517ade8df9f400eba3853e062da/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/a4ab7a5d92c8b8dd86af484c279571d3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/6d5dcad9bf388ef7b137c5376297a60d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/6bfc2f8912bfaa5310d78dc3429aed61/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/1f441c6de251b911879b66b1d6150c45/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/a258292d927f5c7710c2a95ac4d2ebf7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/efb5f4b15a759528f92aacbe7c00d039/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/176ed7c4c3fe3dc771239eee84397b6b/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:2:3-23
+		INJECTED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:2:3-23
+		INJECTED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from [com.facebook.react:react-native:0.59.9] /Users/hubino/.gradle/caches/transforms-2/files-2.1/376b5c2aecc12441430c9bd4b12540cb/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.9] /Users/hubino/.gradle/caches/transforms-2/files-2.1/376b5c2aecc12441430c9bd4b12540cb/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/6cafd39e22b64048a30de248f1f502ed/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/6cafd39e22b64048a30de248f1f502ed/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/32d5c1195362bb0960bffecc8ff5ead6/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/32d5c1195362bb0960bffecc8ff5ead6/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/efb5f4b15a759528f92aacbe7c00d039/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/efb5f4b15a759528f92aacbe7c00d039/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/6cafd39e22b64048a30de248f1f502ed/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.garvax.MainActivity
+ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:13:7-23:18
+	android:screenOrientation
+		ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:16:9-45
+	android:label
+		ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:18:9-48
+	android:configChanges
+		ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:17:9-79
+	android:name
+		ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] /Users/hubino/Documents/Ref/MyProject/garvax/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/hubino/Documents/Ref/MyProject/garvax/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.9] /Users/hubino/.gradle/caches/transforms-2/files-2.1/376b5c2aecc12441430c9bd4b12540cb/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.9] /Users/hubino/.gradle/caches/transforms-2/files-2.1/376b5c2aecc12441430c9bd4b12540cb/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/737f3824e3ae7afd63e26e1297d5fdf2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/737f3824e3ae7afd63e26e1297d5fdf2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/0ba14d8290ab22f0d4be4366602c8835/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/0ba14d8290ab22f0d4be4366602c8835/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/94fcef9bb11c5b0f34895d61acc65834/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/94fcef9bb11c5b0f34895d61acc65834/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/acb7d259356fb17e10ecc107fdf5d607/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/acb7d259356fb17e10ecc107fdf5d607/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/8f5e7d6faafd4bb79b569f55acd887ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/8f5e7d6faafd4bb79b569f55acd887ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/e5e9420674ad658d3440a5db241dc12d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/e5e9420674ad658d3440a5db241dc12d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/278b8333f53346cd6a4b1cdeb77cbdac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/278b8333f53346cd6a4b1cdeb77cbdac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/ebe8407c28cd4d08b8b93b5f306160a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/ebe8407c28cd4d08b8b93b5f306160a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/bc0d3e22a4bdc600722d919fe5c225c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/bc0d3e22a4bdc600722d919fe5c225c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/89cb81d7a382b8103d134cef83a1955f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/89cb81d7a382b8103d134cef83a1955f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/161a3562153bf1b8647a0579ceb279d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/161a3562153bf1b8647a0579ceb279d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/b2912fa33b33bcf126ed5c49d6be5090/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/b2912fa33b33bcf126ed5c49d6be5090/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/6d187b57d67a04f95eec0df038053922/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/6d187b57d67a04f95eec0df038053922/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/d349728052ff2e96fdf27045f6311e37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/d349728052ff2e96fdf27045f6311e37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/6cafd39e22b64048a30de248f1f502ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/6cafd39e22b64048a30de248f1f502ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/32d5c1195362bb0960bffecc8ff5ead6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/32d5c1195362bb0960bffecc8ff5ead6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/018244a2df6594980b042762a1d9bb74/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/018244a2df6594980b042762a1d9bb74/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/hubino/.gradle/caches/transforms-2/files-2.1/1092e8019e5aa727e6539045d4faf681/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/hubino/.gradle/caches/transforms-2/files-2.1/1092e8019e5aa727e6539045d4faf681/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/83894ecdefab0050e419ed6ec6d3db84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/83894ecdefab0050e419ed6ec6d3db84/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/f7210efc45640dc90560eefab9093279/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/f7210efc45640dc90560eefab9093279/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/f1942df9cc229bad51965e5141e6d253/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/f1942df9cc229bad51965e5141e6d253/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/hubino/.gradle/caches/transforms-2/files-2.1/7093f2a7169bbd228773aa72a5dad0a4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/hubino/.gradle/caches/transforms-2/files-2.1/7093f2a7169bbd228773aa72a5dad0a4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/hubino/.gradle/caches/transforms-2/files-2.1/3acdbe910430b0f2245458bcbe51b212/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/hubino/.gradle/caches/transforms-2/files-2.1/3acdbe910430b0f2245458bcbe51b212/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/hubino/.gradle/caches/transforms-2/files-2.1/91f1c1fbee629341b6336395d990f214/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/hubino/.gradle/caches/transforms-2/files-2.1/91f1c1fbee629341b6336395d990f214/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/hubino/.gradle/caches/transforms-2/files-2.1/0c53afe10dd833978f376c3fbabf1024/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/hubino/.gradle/caches/transforms-2/files-2.1/0c53afe10dd833978f376c3fbabf1024/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/d62a5517ade8df9f400eba3853e062da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/d62a5517ade8df9f400eba3853e062da/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/a4ab7a5d92c8b8dd86af484c279571d3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/a4ab7a5d92c8b8dd86af484c279571d3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/6d5dcad9bf388ef7b137c5376297a60d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/6d5dcad9bf388ef7b137c5376297a60d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/6bfc2f8912bfaa5310d78dc3429aed61/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/6bfc2f8912bfaa5310d78dc3429aed61/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/1f441c6de251b911879b66b1d6150c45/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/1f441c6de251b911879b66b1d6150c45/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/a258292d927f5c7710c2a95ac4d2ebf7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/a258292d927f5c7710c2a95ac4d2ebf7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/efb5f4b15a759528f92aacbe7c00d039/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/efb5f4b15a759528f92aacbe7c00d039/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/176ed7c4c3fe3dc771239eee84397b6b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/hubino/.gradle/caches/transforms-2/files-2.1/176ed7c4c3fe3dc771239eee84397b6b/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/hubino/Documents/Ref/MyProject/garvax/android/app/src/debug/AndroidManifest.xml:5:22-75
