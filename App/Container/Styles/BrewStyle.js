@@ -15,36 +15,40 @@ export default StyleSheet.create({
         borderBottomWidth:1,
         borderBottomColor:'#F8E0D4',
         justifyContent:'center',
-        alignItems:'center'
-      },
-      headertext:{fontSize:28,color:'#F8E0D4'},
-      body:{
-        width:'100%',
-        height:'90%',
-        flexDirection:'column'
-      },
-      div:{
-        width:'100%',
-        height:'30%',
+        alignItems:'center',
         flexDirection:'row'
       },
-      BTN:{
-        width:'50%',
+      headertext:{fontSize:28,color:'#F8E0D4'},
+      backlogo:{
+        width:'20%',
         height:'100%',
-        borderBottomColor:'#F8E0D4',
-        borderBottomWidth:0.5,
         justifyContent:'center',
         alignItems:'center'
-      },
-      BTNL:{
-        width:'50%',
+    },
+    headerDiv:{
+        width:'80%',
         height:'100%',
-        borderBottomColor:'#F8E0D4',
-        borderBottomWidth:0.5,
-        borderRightColor:'#F8E0D4',
-        borderRightWidth:0.5,
+        justifyContent:'center',
+    },
+    body:{
+        width:'100%',
+        height:'85%',
+        flexDirection:'column',
+      },
+      cardDiv:{
+        width:'100%',
+        height:150,
         justifyContent:'center',
         alignItems:'center',
-        flexDirection:'column'
-      }
+        marginBottom:5
+    },
+    card:{
+        width:'95%',
+        height:140,
+        borderColor:'#F8E0D4',
+        borderWidth:0.5,
+        borderRadius:8,
+        borderLeftWidth:10,
+        padding:10
+    }
 })

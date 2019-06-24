@@ -16,12 +16,19 @@ class LaunchScreen extends Component {
     }
   }
   onLog(){
-    var encryption = btoa(this.state.username)
-    this.props.storeUserid(encryption)
-    this.props.storeUsername(this.state.username)
-    setTimeout(()=>{
-      console.log('redux',this.props.data)
-    },1000)
+    if(this.state.username){
+      console.log(this.state.username)
+      var encryption = btoa(this.state.username)
+      this.props.storeUserid(encryption)
+      this.props.storeUsername(this.state.username)
+      setTimeout(()=>{
+        this.props.navigation.navigate('Home')
+      },500)
+    }
+    else{
+      alert('Please enter username')
+    }
+
   }
     render() {
       return (
