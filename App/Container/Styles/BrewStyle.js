@@ -34,13 +34,13 @@ export default StyleSheet.create({
         width:'100%',
         height:'85%',
         flexDirection:'column',
+        padding:2
       },
       cardDiv:{
         width:'100%',
-        height:150,
         justifyContent:'center',
         alignItems:'center',
-        marginBottom:5
+        marginBottom:5,
     },
     card:{
         width:'95%',
@@ -50,5 +50,14 @@ export default StyleSheet.create({
         borderRadius:8,
         borderLeftWidth:10,
         padding:10
+    },
+    modal:{flex:1,justifyContent:'center',alignItems:'center'},
+    modaldiv:{
+        width:'100%',
+        height:400,
+        backgroundColor:'white',
+        borderRadius:9,
+        padding:10,
+        flexDirection:'row'
     }
 })

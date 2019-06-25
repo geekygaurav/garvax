@@ -12,6 +12,9 @@ class Home extends Component {
     else if(item == 'guru'){
       this.props.navigation.navigate('Guru')
     }
+    else if(item == 'peeps'){
+      this.props.navigation.navigate('GitHubUser')
+    }
   }
     render() {
       return (
@@ -23,16 +26,17 @@ class Home extends Component {
             <View style={styles.div}>
             <TouchableOpacity onPress={this.onPress.bind(this,'beer')} style={styles.BTNL}>
               <Text style={{fontSize:28,color:'#F8E0D4'}}>🍺</Text>
-              <Text style={{fontSize:20,fontWeight:'bold',color:'#F8E0D4'}}>Breweries</Text>
+              <Text style={{fontSize:20,fontWeight:'bold',color:'#F8E0D4'}}>Beers</Text>
             </TouchableOpacity>
             <TouchableOpacity onPress={this.onPress.bind(this,'guru')}  style={styles.BTN}>
-            <Text style={{fontSize:28,color:'#F8E0D4'}}>🧘</Text>
+            <Text style={{fontSize:28,color:'#F8E0D4'}}>🧘🏻</Text>
               <Text style={{fontSize:20,fontWeight:'bold',color:'#F8E0D4'}}>Guru</Text>
             </TouchableOpacity>
             </View>
             <View style={styles.div}>
-            <TouchableOpacity style={styles.BTNL}>
-
+            <TouchableOpacity onPress={this.onPress.bind(this,'peeps')} style={styles.BTNL}>
+            <Text style={{fontSize:28,color:'#F8E0D4'}}>🧔🏻</Text>
+              <Text style={{fontSize:20,fontWeight:'bold',color:'#F8E0D4'}}>Peeps</Text>
             </TouchableOpacity>
             <TouchableOpacity style={styles.BTN}>
 

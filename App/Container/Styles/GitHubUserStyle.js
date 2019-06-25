@@ -30,26 +30,25 @@ export default StyleSheet.create({
         height:'100%',
         justifyContent:'center',
     },
-    animatedview:{
+    body:{
         width:'100%',
-        height:null,
+        height:'85%',
+        flexDirection:'column',
+      },
+    cardDiv:{
+        width:'100%',
+        height:200,
+        marginBottom:10,
         justifyContent:'center',
         alignItems:'center',
-        marginTop:100
+        flexDirection:'column',
+        borderBottomColor:'#F8E0D4',
+        borderBottomWidth:0.5
     },
-    textDiv:{
-        width:'100%',
-        height:100,
-        justifyContent:'center',
-        alignItems:'center',
-        padding:20
-    },
-    askbtn:{
-        width:80,
-        height:80,
-        borderRadius:80,
-        backgroundColor:'#F8E0D4',
-        justifyContent:'center',
-        alignItems:'center'
+    imageStyle:{
+        width:150,
+        height:150,
+        borderRadius:150,
     }
+
 })
