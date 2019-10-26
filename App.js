@@ -2,10 +2,20 @@ import React, {Component} from 'react';
 import {Platform, StyleSheet, Text, View} from 'react-native';
 import Navigation from './App/Navigation/Navigation'
 import { Provider } from 'react-redux';
-import { createStore } from 'redux';
-import reducer from './App/Redux/Reducer/AppReducer'
+import { createStore, applyMiddleware } from 'redux'
+import createSagaMiddleware from 'redux-saga'
 
-const store = createStore(reducer);
+import reducer from './App/Redux/Reducer/index'
+import rootsaga from './App/Saga/index'
+
+const sagaMiddleware = createSagaMiddleware()
+
+const store = createStore(
+  reducer,
+  applyMiddleware(sagaMiddleware)
+)
+sagaMiddleware.run(rootsaga)
+
 
 
 export default class App extends Component {
@@ -18,8 +28,3 @@ export default class App extends Component {
   }
 }
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-  }
-});

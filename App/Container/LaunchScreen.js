@@ -18,8 +18,8 @@ class LaunchScreen extends Component {
   onLog(){
     if(this.state.username){
       console.log(this.state.username)
-      var encryption = btoa(this.state.username)
-      this.props.storeUserid(encryption)
+      // var encryption = btoa(this.state.username)
+      // this.props.storeUserid(encryption)
       this.props.storeUsername(this.state.username)
       setTimeout(()=>{
         this.props.navigation.navigate('Home')

@@ -5,6 +5,8 @@ import styles from './Styles/BrewStyle'
 import * as api from '../Service/Api'
 import Modal from "react-native-modal";
 import ResponsiveImage from 'react-native-responsive-image'
+import BeerActions from '../Redux/Reducer/BeerRedux'
+
 
 
 class Brew extends Component {
@@ -18,20 +20,17 @@ class Brew extends Component {
         }
     }
     componentDidMount(){
-        api.brew.get('beers')
-        .then((response) => {console.log(response)
-            if(response.status == 200){
-                this.setState({
-                    brewList:response.data
-                },()=>{
-                    console.log('fetching brew list',this.state.brewList)
-                })
-            }
-            else{
-                alert('Server error')
-            }
-        })
+        this.props.getBeer()
     }
+
+    componentWillReceiveProps(props){
+        if(props.beerList){
+            this.setState({
+                brewList: props.beerList
+            })
+        }
+    }
+    
     onPressModal(item){
         console.log('item',item)
         this.setState({
@@ -96,12 +95,13 @@ class Brew extends Component {
 
 const mapStateToProps = (state) => {
     return {
-      data: state
+      beerList: state.beer.payload
     }
   }
   
   const mapDispatchToProps = (dispatch) => {
     return {
+        getBeer: () => dispatch(BeerActions.requestBeer())
     }
   }
   
