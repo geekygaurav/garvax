@@ -3,8 +3,7 @@ import { View ,StyleSheet,Image, TouchableOpacity } from 'react-native'
 import { TextInput } from 'react-native'
 import PropTypes from 'prop-types';
 import { width, height } from 'react-native-dimension';
-import Icon from 'react-native-vector-icons/FontAwesome';
-
+import { Colors  } from '../Metrics/index'
 
 
 //00c3ea
@@ -28,7 +27,7 @@ export default class InputField extends Component{
           autoCorrect={this.props.autoCorrect}
           autoCapitalize={this.props.autoCapitalize}
           returnKeyType={this.props.returnKeyType}
-          placeholderTextColor='#231F1F'
+          placeholderTextColor={Colors.theme}
           // underlineColorAndroid="transparent"
           value={this.props.value}
           onChangeText={this.props.onChangeText}
@@ -50,8 +49,7 @@ InputField.propTypes = {
 
 const styles = StyleSheet.create({
   input: {
-    backgroundColor: 'rgba(255, 255, 255, 0.8)',
-    //backgroundColor:'white',
+    backgroundColor:Colors.backOpacity,
     width: width(90),
     height: 40,
     marginHorizontal: 20,
@@ -60,11 +58,9 @@ const styles = StyleSheet.create({
     color: 'black',
     fontSize: 18,
     borderWidth:1,
-    borderColor:'#231F1F',
-    // left:0
+    borderColor:Colors.theme,
   },
   inputWrapper: {
-    // flex: 1,
     paddingBottom: 5,
   },
   inlineImg: {
