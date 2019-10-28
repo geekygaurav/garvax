@@ -1,4 +1,0 @@
-#Sun Jun 23 20:54:39 IST 2019
-base.0=/Users/hubino/Documents/Ref/MyProject/garvax/android/app/build/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex
