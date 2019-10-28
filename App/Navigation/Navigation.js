@@ -12,7 +12,6 @@ import Brew from '../Container/Brew'
 import Guru from '../Container/Guru'
 import GitHubUser from '../Container/GitHubUser'
 import Profile from '../Container/Profile'
-import Disclaimer from '../Container/Disclaimer'
 
 
 const Navigation = createStackNavigator({
@@ -22,7 +21,6 @@ const Navigation = createStackNavigator({
     Guru: { screen: Guru },
     GitHubUser: { screen: GitHubUser },
     Profile: { screen: Profile },
-    Disclaimer : { screen: Disclaimer}
 
 },
     {

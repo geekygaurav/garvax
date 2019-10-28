@@ -57,9 +57,6 @@ class Home extends Component {
           </View>
 
           <View style={styles.divLast}>
-            <TouchableOpacity onPress={()=>this.props.navigation.navigate('Disclaimer')} style={styles.disclaimerDiv}>
-              <Text style={styles.disclaimerText} >{'DISCLAIMER'}</Text>
-            </TouchableOpacity>
           </View>
         </View>
         <View style={styles.wishDiv}>
