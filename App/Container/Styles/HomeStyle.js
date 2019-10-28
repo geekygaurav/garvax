@@ -32,9 +32,16 @@ export default StyleSheet.create({
         height:'30%',
         flexDirection:'row'
       },
+      div1:{
+        width:'100%',
+        height:'25%',
+        flexDirection:'column',
+        justifyContent:"center",
+        alignItems:'center'
+      },
       divLast:{
         width:'100%',
-        height:'30%',
+        height:'5%',
         flexDirection:'row',
         justifyContent:'center',
         alignItems:'flex-end'
@@ -73,7 +80,23 @@ export default StyleSheet.create({
         alignItems:'center'
       },
       buttontext:{ 
-        fontSize: 20, 
+        fontSize: 18, 
+        fontWeight: 'bold', 
+        color: '#F8E0D4' ,
+        fontFamily:"monospace"
+      },
+      buttontextsmall:{ 
+        fontSize: 18, 
+        color: '#F8E0D4' ,
+        fontFamily:"monospace"
+      },
+      buttontextmedium:{ 
+        fontSize: 24, 
+        color: '#F8E0D4' ,
+        fontFamily:"monospace"
+      },
+      buttontextlarge:{ 
+        fontSize: 30, 
         fontWeight: 'bold', 
         color: '#F8E0D4' ,
         fontFamily:"monospace"

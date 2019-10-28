@@ -1,10 +1,11 @@
 import React, { Component } from 'react'
-import { View, Text, ScrollView, ActivityIndicator, TouchableOpacity, Alert } from 'react-native'
+import { View, Text, ScrollView, ActivityIndicator,Linking ,TouchableOpacity} from 'react-native'
 import { connect } from 'react-redux'
 import ApplicationStyle from '../Metrics/Styles'
 import styles from './Styles/DisclaimerStyle'
 import { Colors } from '../Metrics/index'
 import interactions from '../Buisness/Interactions'
+import * as Animatable from 'react-native-animatable';
 
 
 class Disclaimer extends Component {
@@ -40,6 +41,9 @@ class Disclaimer extends Component {
                     isLoad: false
                 })
             }
+            else{
+                alert('Failed to load!')
+            }
         })
 
     }
@@ -48,6 +52,7 @@ class Disclaimer extends Component {
             <ScrollView style={ApplicationStyle.container}>
                 <View style={styles.headerDiv}>
                     <Text style={styles.headerText}>DISCLAIMER</Text>
+                    <TouchableOpacity onPress={() => Linking.openURL('mailto:grcnation95@gmail.com') }><Animatable.Text delay={100} animation="bounceInRight" iterationCount={1} iterationDelay={100} style={[styles.textImportant,{color:'orange'}]}>Contact Us</Animatable.Text></TouchableOpacity>
                 </View>
                 {!this.state.isLoad ?
                     <View style={styles.textDiv}>
@@ -58,6 +63,8 @@ class Disclaimer extends Component {
                         <Text style={styles.text}>{'5. ' + this.state.thirdparty + '\n'}</Text>
                         <Text style={styles.text}>{'6. ' + this.state.trade + '\n'}</Text>
                         <Text style={styles.textImportant}>{'7. ' + this.state.userprivacy + '\n'}</Text>
+                        <View style={[styles.textDiv,{justifyContent:'center',alignItems:'center'}]}>
+                        </View>
                     </View> :
                     <ActivityIndicator size={'large'} color={Colors.cream} />
                 }

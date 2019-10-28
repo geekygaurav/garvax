@@ -1,3 +1,10 @@
+/**
+* This file contains all the stack of screens/component. 
+* You can modify your own custom setting for navigation.
+* Please visit https://reactnavigation.org/ for more information.
+*/
+
+
 import { createStackNavigator, createAppContainer } from "react-navigation";
 import LaunchScreen from '../Container/LaunchScreen'
 import Home from '../Container/Home'

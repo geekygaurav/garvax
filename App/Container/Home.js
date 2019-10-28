@@ -50,14 +50,20 @@ class Home extends Component {
             </TouchableOpacity>
           </View>
 
+          <View style={styles.div1}>
+          <Animatable.Text delay={100} animation="bounceInRight" iterationCount={1} iterationDelay={100} style={styles.buttontextsmall}>REACT</Animatable.Text>
+          <Animatable.Text delay={600} animation="bounceInLeft" iterationCount={1} iterationDelay={100} style={styles.buttontextmedium}>REDUX</Animatable.Text>
+          <Animatable.Text delay={1000} animation="fadeInUpBig" iterationCount={1} iterationDelay={100}  style={styles.buttontextlarge}>SAGA</Animatable.Text>
+          </View>
+
           <View style={styles.divLast}>
             <TouchableOpacity onPress={()=>this.props.navigation.navigate('Disclaimer')} style={styles.disclaimerDiv}>
-              <Animatable.Text style={styles.disclaimerText} animation="fadeInUp" iterationCount={1}>{'DISCLAIMER'}</Animatable.Text>
+              <Text style={styles.disclaimerText} >{'DISCLAIMER'}</Text>
             </TouchableOpacity>
           </View>
         </View>
         <View style={styles.wishDiv}>
-          <Text  style={{ fontSize: 16, color: '#F8E0D4' }}>Made with ❤️ by Gourav</Text>
+          <Animatable.Text animation="fadeInUp" iterationCount={1}  style={{ fontSize: 16, color: '#F8E0D4' }}>With ❤️ by geekygaurav</Animatable.Text>
         </View>
       </View>
     );

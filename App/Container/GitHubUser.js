@@ -1,12 +1,12 @@
 
 import React, { Component } from 'react';
-import { FlatList, Text, TouchableOpacity, View } from 'react-native';
+import { FlatList, Text, TouchableOpacity, View, ActivityIndicator } from 'react-native';
 import { connect } from 'react-redux'
 import styles from './Styles/GitHubUserStyle'
-import Modal from "react-native-modal";
 import ResponsiveImage from 'react-native-responsive-image'
 import UserAcions from '../Redux/Reducer/GithubUserRedux'
 import ApplicationStyle from '../Metrics/Styles'
+import { Colors } from '../Metrics/index'
 
 const fixtureData = require('../Fixtures/User.json')
 
@@ -15,7 +15,8 @@ class GitHubUser extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            userList: []
+            userList: [],
+            isLoad:true
         }
     }
     componentDidMount() {
@@ -24,7 +25,8 @@ class GitHubUser extends Component {
     componentWillReceiveProps(props) {
         if (props.githubuserResponse) {
             this.setState({
-                userList: props.githubuserResponse
+                userList: props.githubuserResponse,
+                isLoad: false
             })
         }
     }
@@ -41,7 +43,7 @@ class GitHubUser extends Component {
                     </View>
                 </View>
                 <View style={styles.body}>
-                    {this.renderList(userList)}
+                    {!this.state.isLoad ? this.renderList(userList) : <ActivityIndicator size={'large'} color={Colors.cream} />}
                 </View>
             </View>
         );

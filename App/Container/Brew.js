@@ -1,11 +1,12 @@
 import React, { Component } from 'react';
-import { Platform, FlatList, Text, TouchableOpacity, View } from 'react-native';
+import { ActivityIndicator, FlatList, Text, TouchableOpacity, View } from 'react-native';
 import { connect } from 'react-redux'
 import styles from './Styles/BrewStyle'
 import Modal from "react-native-modal";
 import ResponsiveImage from 'react-native-responsive-image'
 import BeerActions from '../Redux/Reducer/BeerRedux'
 import ApplicationStyle from '../Metrics/Styles'
+import { Colors } from '../Metrics/index'
 
 const fixtureData = require('../Fixtures/Beer.json')
 
@@ -16,7 +17,8 @@ class Brew extends Component {
             brewList: [],
             isModalVisible: false,
             image: '',
-            description: ''
+            description: '',
+            isLoad: true
         }
     }
     componentDidMount() {
@@ -26,7 +28,8 @@ class Brew extends Component {
     componentWillReceiveProps(props) {
         if (props.beerList) {
             this.setState({
-                brewList: props.beerList
+                brewList: props.beerList,
+                isLoad: false
             })
         }
     }
@@ -52,7 +55,7 @@ class Brew extends Component {
                     </View>
                 </View>
                 <View style={styles.body}>
-                    {this.renderList(yummyBeer)}
+                    {!this.state.isLoad ? this.renderList(yummyBeer) : <ActivityIndicator size={'large'} color={Colors.cream} />}
                 </View>
                 {this.renderModal()}
             </View>

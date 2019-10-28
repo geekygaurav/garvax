@@ -1,5 +1,6 @@
 /**
  * @format
+ * entry point for both iOS and android
  */
 
 import {AppRegistry} from 'react-native';
