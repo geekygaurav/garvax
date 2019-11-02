@@ -8,6 +8,10 @@ import BeerActions from '../Redux/Reducer/BeerRedux'
 import ApplicationStyle from '../Metrics/Styles'
 import { Colors } from '../Metrics/index'
 
+/**
+ * In case the API's not working. No need to worry. Set the below const fixtureData to our brewList state variable.
+ */
+
 const fixtureData = require('../Fixtures/Beer.json')
 
 class Brew extends Component {

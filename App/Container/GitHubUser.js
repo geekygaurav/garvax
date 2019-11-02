@@ -8,6 +8,10 @@ import UserAcions from '../Redux/Reducer/GithubUserRedux'
 import ApplicationStyle from '../Metrics/Styles'
 import { Colors } from '../Metrics/index'
 
+
+/**
+ * In case the API's not working. No need to worry. Set the below const fixtureData to our userList state variable.
+ */
 const fixtureData = require('../Fixtures/User.json')
 
 
