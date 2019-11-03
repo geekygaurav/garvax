@@ -1,9 +1,13 @@
 ✨ React + Redux + Saga Boilerplate ✨
 ---------
 
+![garvax](https://github.com/geekygaurav/garvax/blob/master/App/Assets/Garvax.png)
+
 Hey folks! I have brought to you the coolest trio in the trend of mobile application technologies. Yes, you guessed it right. We can already smell the popularity of React getting higher these days and also Redux which proved to be a strong supporting framework for React. But what's the interesting thing about GARVAX?. I have used the Sagas middleware.
 
 Now I am not the first one to do this, actually many have started to use Saga. But I made this boilerplate especially for those who are noobs to the react-native world and want to kickstart developing an application to learn. The configurations are also understandable if you have a basic knowledge of react-native and javascript. You're good to go. 😁
+
+[Click here to download the Android version of Garvax](https://drive.google.com/open?id=1JM31Eetin8VRe8FVt8upfRoDP_X4gBIa)
 
 About
 ------
