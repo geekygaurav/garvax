@@ -27,7 +27,7 @@ Component
 ---------
 Tada! This is a significant important folder. You can store re-usable components over here and use it across the project. Remember that react strongly supports the idea of components re-usability.
 
-**Note Mostly components are regarded as child components that deals with props and not state variable
+**Note Mostly components are regarded as child components that deals with props and not state variable**
 
 Container
 ---------
@@ -49,17 +49,17 @@ Navigation
 ---------
 Well, we can say it as a library for our application. We can import all the screens and keep them here.
 
-**NOTE In this project we have used Stack navigator. Anyhow you can modify this file to create your own navigator and customize. You can visit React navigation for more information.
+**NOTE In this project we have used Stack navigator. Anyhow you can modify this file to create your own navigator and customize. You can visit [React navigation](https://reactnavigation.org/docs/en/custom-navigators.html) for more information.**
 
 Redux
 -----
-This is our redux folder and we keep all the reducer in one place. If you want to know more about how redux works you can go to Redux official site to know more.
+This is our redux folder and we keep all the reducer in one place. If you want to know more about how redux works you can go to [Redux official site](https://redux.js.org/basics/usage-with-react) to know more.
 
-**Note If you are creating any reducer, don't forget to import it in the index.js file.
+**Note If you are creating any reducer, don't forget to import it in the index.js file.**
 
 Saga
 ----
-Our middleware lives right here and operates. If you want to explore more about how saga works, please go here, you will have an idea. Parallelly you can tally with our boilerplate saga configuration so that you have a clear picture.
+Our middleware lives right here and operates. If you want to explore more about how saga works, [please go here](https://medium.com/@sprocompany/why-you-should-use-redux-saga-b64f6fce5e4a), you will have an idea. Parallelly you can tally with our boilerplate saga configuration so that you have a clear picture.
 
 Service
 -------
