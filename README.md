@@ -1,4 +1,4 @@
-✨ React + Redux + Saga Boilerplate ✨
+##✨ React + Redux + Saga Boilerplate ✨
 
 Hey folks! I have brought to you the coolest trio in the trend of mobile application technologies. Yes, you guessed it right. We can already smell the popularity of React getting higher these days and also Redux which proved to be a strong supporting framework for React. But what's the interesting thing about GARVAX?. I have used the Sagas middleware.
 
@@ -10,62 +10,70 @@ RN version used in this project is 0.59. This project is developed from scratch 
 
 Folder structure
 ----------------
-├── Assets
-│   ├── Garvax.png
-│   └── Garvaxlogo.png
-├── Buisness
-│   └── Interactions.js
-├── Component
-│   ├── InputField.js
-│   ├── ProfileContent.js
-│   ├── ProfileHeader.js
-│   ├── ProfileNavbar.js
-│   └── README.md
-├── Container
-│   ├── Brew.js
-│   ├── GitHubUser.js
-│   ├── Guru.js
-│   ├── Home.js
-│   ├── LaunchScreen.js
-│   ├── Profile.js
-│   ├── README.md
-│   └── Styles
-│       ├── BrewStyle.js
-│       ├── GitHubUserStyle.js
-│       ├── GuruStyle.js
-│       ├── HomeStyle.js
-│       ├── LaunchScreenStyles.js
-│       └── ProfileStyle.js
-├── Fixtures
-│   ├── Beer.json
-│   ├── README.md
-│   ├── StarkInfo.json
-│   └── User.json
-├── Images
-│   ├── Images.js
-│   └── README.md
-├── Metrics
-│   ├── Colors.js
-│   ├── README.md
-│   ├── Styles.js
-│   └── index.js
-├── Navigation
-│   └── Navigation.js
-├── Redux
-│   ├── README.md
-│   └── Reducer
-│       ├── BeerRedux.js
-│       ├── GithubUserRedux.js
-│       ├── GuruRedux.js
-│       ├── index.js
-│       └── indexReducer.js
-├── Saga
-│   ├── BeerSaga.js
-│   ├── GithubUserSaga.js
-│   ├── GuruSaga.js
-│   ├── README.md
-│   └── index.js
-└── Service
+Assets
+   ├── Garvax.png
+   └── Garvaxlogo.png
+
+Buisness
+    └── Interactions.js
+
+
+Component
+   ├── InputField.js
+   ├── ProfileContent.js
+   ├── ProfileHeader.js
+   ├── ProfileNavbar.js
+   └── README.md
+
+Container
+   ├── Brew.js
+   ├── GitHubUser.js
+   ├── Guru.js
+   ├── Home.js
+   ├── LaunchScreen.js
+   ├── Profile.js
+   ├── README.md
+
+Fixtures
+   ├── Beer.json
+   ├── README.md
+   ├── StarkInfo.json
+   └── User.json
+
+
+Images
+    ├── Images.js
+    └── README.md
+
+
+Metrics
+   ├── Colors.js
+   ├── README.md
+   ├── Styles.js
+   └── index.js
+
+
+Navigation
+   └── Navigation.js
+
+ Redux
+   ├── README.md
+   └── Reducer
+   ├── BeerRedux.js
+   ├── GithubUserRedux.js
+   ├── GuruRedux.js
+   ├── index.js
+
+
+Saga
+   ├── BeerSaga.js
+   ├── GithubUserSaga.js
+   ├── GuruSaga.js
+   ├── README.md
+   └── index.js
+
+
+Service
     ├── Api.js
     └── README.md
 Assets
