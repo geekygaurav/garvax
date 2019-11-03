@@ -1,4 +1,5 @@
-✨ **React + Redux + Saga Boilerplate ✨
+✨ React + Redux + Saga Boilerplate ✨
+---------
 
 Hey folks! I have brought to you the coolest trio in the trend of mobile application technologies. Yes, you guessed it right. We can already smell the popularity of React getting higher these days and also Redux which proved to be a strong supporting framework for React. But what's the interesting thing about GARVAX?. I have used the Sagas middleware.
 
