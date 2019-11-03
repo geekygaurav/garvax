@@ -64,3 +64,9 @@ Our middleware lives right here and operates. If you want to explore more about 
 Service
 -------
 This is our API endpoints saving file and we can export it any place and perform fetch functions.
+
+About PRs and contributing
+----------------------------
+This repo is always open for upgradation. If you have any idea,suggestions or feedback, please feel free to contact me. We can make this project better together. 🙏🤟
+
+
