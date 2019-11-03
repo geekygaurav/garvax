@@ -9,6 +9,21 @@ Now I am not the first one to do this, actually many have started to use Saga. B
 
 [Click here to download the Android version of Garvax](https://drive.google.com/open?id=1JM31Eetin8VRe8FVt8upfRoDP_X4gBIa)
 
+Installation
+------------
+
+1. Fork/clone this repo.
+2. Open your terminal and go the project directory
+```cd garvax```
+3. Run yarn install,
+```yarn install```
+4. Run 
+```react-native run-android```
+or
+```react-native run-ios```
+
+
+
 About
 ------
 RN version used in this project is 0.59. This project is developed from scratch using react-native cli. I haven't used many third party libraries in this project because I wanted boilerplate to be lite and simple without making complicated code so that others can easily get familiar and also can modify/implement their own changes by forking this repo.😎
