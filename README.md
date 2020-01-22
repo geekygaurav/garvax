@@ -9,6 +9,11 @@ Now I am not the first one to do this, actually many have started to use Saga. B
 
 [Click here to download the Android version of Garvax](https://drive.google.com/open?id=1JM31Eetin8VRe8FVt8upfRoDP_X4gBIa)
 
+
+
+
+**Please checkout my another repo on [native iOS stack view](https://github.com/geekygaurav/react-native-stack-view/blob/master/README.md) developed in react-native.**
+
 Installation
 ------------
 
