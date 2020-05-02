@@ -1,3 +1,5 @@
+```New version is in development```
+
 ✨ React + Redux + Saga Boilerplate ✨
 ---------
 
