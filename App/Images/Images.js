@@ -1,5 +1,5 @@
 const images = {
-    garvax:require('../Assets/Garvax.png')
+    coffee:require('../Assets/coffee.png')
 }
 
 export default images

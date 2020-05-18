@@ -76,5 +76,12 @@ export default StyleSheet.create({
         width:'100%',
         height:null,
         padding:10
+    },
+    contentTextDivCenter:{
+        width:'100%',
+        height:null,
+        padding:10,
+        justifyContent:'center',
+        alignItems:'center'
     }
 })

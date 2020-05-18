@@ -7,7 +7,6 @@ export function* getGuru(action) {
   try {
     const json = yield fetch(advise)
       .then(response => response.json());
-    console.log(json)
     if (json) {
       yield put(GuruActions.successGuru(json))
     } else {

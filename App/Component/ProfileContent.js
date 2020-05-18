@@ -29,6 +29,12 @@ class Content extends Component {
                 <View style={styles.contentTextDiv}>
                     <Text style={{ color: 'black' }}>{info.war}</Text>
                 </View>
+                <View style={styles.contentTextDivCenter}>
+                    <Text style={{ color: 'black' }}>{"Made by gouravc"}</Text>
+                    <Text style={{ color: 'black' }}>{"I ❤️ you 3000"}</Text>
+                </View>
+
+                <View style={{width:'100%',height:100}}/>
             </ScrollView>
         )
     }

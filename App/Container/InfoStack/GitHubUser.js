@@ -4,15 +4,15 @@ import { FlatList, Text, TouchableOpacity, View, ActivityIndicator } from 'react
 import { connect } from 'react-redux'
 import styles from './Styles/GitHubUserStyle'
 import ResponsiveImage from 'react-native-responsive-image'
-import UserAcions from '../Redux/Reducer/GithubUserRedux'
-import ApplicationStyle from '../Metrics/Styles'
-import { Colors } from '../Metrics/index'
+import UserAcions from '../../Redux/Reducer/GithubUserRedux'
+import ApplicationStyle from '../../Metrics/Styles'
+import { Colors } from '../../Metrics/index'
 
 
 /**
  * In case the API's not working. No need to worry. Set the below const fixtureData to our userList state variable.
  */
-const fixtureData = require('../Fixtures/User.json')
+const fixtureData = require('../../Fixtures/User.json')
 
 
 class GitHubUser extends Component {

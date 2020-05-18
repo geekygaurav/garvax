@@ -1,15 +1,15 @@
 import React, { Component } from 'react'
 import { View, Text, Dimensions, Platform, TextInput, TouchableOpacity, Alert } from 'react-native'
 import { connect } from 'react-redux'
-import ApplicationStyle from '../Metrics/Styles'
+import ApplicationStyle from '../../Metrics/Styles'
 import styles from './Styles/ProfileStyle'
 const { width, height } = Dimensions.get('window')
-import { Colors } from '../Metrics/index'
+import { Colors } from '../../Metrics/index'
 
 import ReactNativeParallaxHeader from 'react-native-parallax-header';
-import ProfileHeader from '../Component/ProfileHeader'
-import ProfileNavbar from '../Component/ProfileNavbar'
-import ProfileContent from '../Component/ProfileContent'
+import ProfileHeader from '../../Component/ProfileHeader'
+import ProfileNavbar from '../../Component/ProfileNavbar'
+import ProfileContent from '../../Component/ProfileContent'
 
 export const IS_IPHONE_X = height === 812 || height === 896;
 const STATUS_BAR_HEIGHT = Platform.OS === 'ios' ? (IS_IPHONE_X ? 44 : 20) : 0;
