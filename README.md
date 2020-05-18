@@ -1,6 +1,6 @@
 ```New version is in development```
 
-✨ React - Hooks - Redux - Saga  ✨
+✨ React - Hooks - Redux   ✨
 ---------
 
 ![coffee](https://github.com/geekygaurav/coffee/blob/master/App/Assets/coffee.png)
