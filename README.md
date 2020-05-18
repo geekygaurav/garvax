@@ -1,13 +1,17 @@
-```New version is in development```
-
-✨ React - Hooks - Redux   ✨
+☕ COFFEE - react-redux-hook-navigation boileplate   
 ---------
 
-![coffee](https://github.com/geekygaurav/coffee/blob/master/App/Assets/coffee.png)
+![coffee](https://i.ibb.co/j53GGvt/coffee.png) 
+![Dashboard](https://i.ibb.co/w6vDCP0/Dashboard.png)
 
-Hey folks! I have brought to you the coolest trio in the trend of mobile application technologies. Yes, you guessed it right. We can already smell the popularity of React getting higher these days and also Redux which proved to be a strong supporting framework for React. But what's the interesting thing about coffee?. I have used the Sagas middleware.
 
-Now I am not the first one to do this, actually many have started to use Saga. But I made this boilerplate especially for those who are noobs to the react-native world and want to kickstart developing an application to learn. The configurations are also understandable if you have a basic knowledge of react-native and javascript. You're good to go. 😁
+
+Key Features :-
+1. [React-native version 0.60.](https://reactnative.dev/blog/2019/07/03/version-60)
+2. [Hooks component examples](https://reactjs.org/docs/hooks-intro.html)
+3. [Redux-Hooks.](https://react-redux.js.org/api/hooks)
+4. [TabBar Navigation configuration.](https://reactnavigation.org/docs/tab-based-navigation/)
+5. [Native-base support.](https://nativebase.io/) 
 
 [Click here to download the Android version of coffee](https://drive.google.com/open?id=1JM31Eetin8VRe8FVt8upfRoDP_X4gBIa)
 
