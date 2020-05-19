@@ -5,7 +5,7 @@
 <p align="center"><img src="https://i.ibb.co/j53GGvt/coffee.png" alt="header image" width="500px"></p>
 
 
-# Key Features :-
+# Key Features
 1. [React-native version 0.60.](https://reactnative.dev/blog/2019/07/03/version-60)
 2. [Hooks component examples](https://reactjs.org/docs/hooks-intro.html)
 3. [Redux-Hooks.](https://react-redux.js.org/api/hooks)
