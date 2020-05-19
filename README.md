@@ -16,7 +16,7 @@
 
 - **I am looking for collaborators. If interested please drop a mail** [here](https://github.com/gouravrc)
 - **The default app name will be ```garvax```. You can always change it to any name of your wish.**
-- **I wish to develop seperate ```CLI```. But I dont know how to start and learning to deploy. If you can help me with that, it will be great and I can list you in the contributor list.**
+- **I wish to develop seperate ```CLI```. But I dont know how to start and learning to deploy. If you can help me with that, it will be great and I can include you in the contributor list.**
 - **If you find any mistake/bug, please post in the issues section.**
 
 
@@ -98,7 +98,7 @@ This repo is always open for upgradation. If you have any idea,suggestions or fe
 
 # Screenshots
 ![Dashboard](https://i.ibb.co/w6vDCP0/Dashboard.png) ![Guru](https://i.ibb.co/0r7C55Z/Guru.png) 
-<p align="center"><img src="https://i.ibb.co/c2g9ftJ/Profile.png" alt="header image"></p>
+![Guru](https://i.ibb.co/c2g9ftJ/Profile.png) 
 
 **For buisness**
 [Click here to mail.](mailto:grcnation95@gmail.com?subject=[GitHub]%20Buisness%20Query)
