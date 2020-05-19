@@ -1,4 +1,4 @@
-☕ COFFEE - react-redux-hook-navigation boileplate   
+☕ COFFEE ☕ - react-redux-hook-navigation boileplate   
 ---------
 
 
