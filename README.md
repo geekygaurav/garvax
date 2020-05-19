@@ -27,10 +27,12 @@
 
 # 🔊 Announcement 🔊
 
-- **I am looking for collaborators. If interested please drop a mail** [here](https://github.com/gouravrc)
+- **I am looking for collaborators. If interested please drop a mail** [here](mailto:grcnation95@gmail.com?subject=[GitHub]%20Collaboration%20Request)
 - **The default app name will be ```garvax```. You can always change it to any name of your wish.**
 - **I wish to develop seperate ```CLI```. But I dont know how to start and learning to deploy. If you can help me with that, it will be great and I can include you in the contributor list.**
 - **If you find any mistake/bug, please post in the issues section.**
+- **Need support?? Connect me by sending a mail.** [here](mailto:grcnation95@gmail.com?subject=[GitHub]%20Need%20Support)
+
 
 
 **Please checkout my another repo on [native iOS stack view](https://github.com/gouravrc/react-native-stack-view) developed in react-native.**
@@ -124,5 +126,8 @@ This repo is always open for upgradation. If you have any idea,suggestions or fe
 <img alt="PRs Welcome" src="https://forthebadge.com/images/badges/built-with-love.svg" />
 </p>
 
-**For buisness**
+**For Buisness query**
 📧 [Click here to mail.](mailto:grcnation95@gmail.com?subject=[GitHub]%20Buisness%20Query)
+
+**Have some idea/Need free consultant**
+[Feel free to connect](mailto:grcnation95@gmail.com?subject=[GitHub]%20Free%20Consultancy)
