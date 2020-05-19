@@ -1,9 +1,17 @@
-☕ COFFEE ☕ - react-redux-hook-navigation boileplate   
+☕ COFFEE ☕ - react-native-hooks-redux-navigation Boileplate   
 ---------
 
 
 
-
+<p align="center">
+    <img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /> 
+<img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
+<img alt="Maintained | Yes" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+<img alt="Ask me anything" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" />
+<img alt="Maintained" src="https://img.shields.io/pypi/l/ansicolortags.svg" />
+<img alt="issues open 0" src="https://img.shields.io/github/issues/Naereen/StrapDown.js.svg" />
+<img alt="open source" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" />
+</p>
 
 <p align="center"><img src="https://i.ibb.co/j53GGvt/coffee.png" alt="header image" width="500px"></p>
 
@@ -15,15 +23,7 @@
 4. [TabBar Navigation configuration.](https://reactnavigation.org/docs/tab-based-navigation/)
 5. [Native-base support.](https://nativebase.io/) 
 
-<p align="center">
-    <img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /> 
-<img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" />
-<img alt="Maintained" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-<img alt="Maintained" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" />
-<img alt="Maintained" src="https://img.shields.io/pypi/l/ansicolortags.svg" />
-<img alt="Maintained" src="https://img.shields.io/github/issues/Naereen/StrapDown.js.svg" />
-<img alt="Maintained" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" />
-</p>
+
 
 # 🔊 Announcement 🔊
 
@@ -113,12 +113,16 @@ This repo is always open for upgradation. If you have any idea,suggestions or fe
 ![Dashboard](https://i.ibb.co/w6vDCP0/Dashboard.png) ![Guru](https://i.ibb.co/0r7C55Z/Guru.png) 
 ![Guru](https://i.ibb.co/c2g9ftJ/Profile.png) 
 
-**For buisness**
-📧 [Click here to mail.](mailto:grcnation95@gmail.com?subject=[GitHub]%20Buisness%20Query)
-
 <p align="center">
-<img alt="PRs Welcome" src="https://forthebadge.com/images/badges/built-with-love.svg" />
-
+<img alt="PRs Welcome" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQYRHW-WHL5BzAuoPdI4iWpxMND-etcHxdwgtV9aGmWygKndgb6&usqp=CAU" />
 
 </p>
 
+
+
+<p align="center">
+<img alt="PRs Welcome" src="https://forthebadge.com/images/badges/built-with-love.svg" />
+</p>
+
+**For buisness**
+📧 [Click here to mail.](mailto:grcnation95@gmail.com?subject=[GitHub]%20Buisness%20Query)
