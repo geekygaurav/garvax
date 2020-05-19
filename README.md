@@ -1,24 +1,26 @@
 ☕ COFFEE - react-redux-hook-navigation boileplate   
 ---------
 
-![coffee](https://i.ibb.co/j53GGvt/coffee.png) 
-![Dashboard](https://i.ibb.co/w6vDCP0/Dashboard.png)
+
+<p align="center"><img src="https://i.ibb.co/j53GGvt/coffee.png" alt="header image" width="500px"></p>
 
 
-
-Key Features :-
+# Key Features :-
 1. [React-native version 0.60.](https://reactnative.dev/blog/2019/07/03/version-60)
 2. [Hooks component examples](https://reactjs.org/docs/hooks-intro.html)
 3. [Redux-Hooks.](https://react-redux.js.org/api/hooks)
 4. [TabBar Navigation configuration.](https://reactnavigation.org/docs/tab-based-navigation/)
 5. [Native-base support.](https://nativebase.io/) 
 
-[Click here to download the Android version of coffee](https://drive.google.com/open?id=1JM31Eetin8VRe8FVt8upfRoDP_X4gBIa)
+# Announcement
+
+- **I am looking for collaborators. If interested please drop a mail** [here](https://github.com/gouravrc)
+- **The default app name will be ```garvax```. You can always change it to any name of your wish.**
+- **I wish to develop seperate ```CLI```. But I dont know how to start and learning to deploy. If you can help me with that, it will be great and I can list you in the contributor list.**
+- **If you find any mistake/bug, please post in the issues section.**
 
 
-
-
-**Please checkout my another repo on [native iOS stack view](https://github.com/geekygaurav/react-native-stack-view/blob/master/README.md) developed in react-native.**
+**Please checkout my another repo on [native iOS stack view](https://github.com/gouravrc/react-native-stack-view) developed in react-native.**
 
 Installation
 ------------
@@ -34,10 +36,9 @@ or
 ```react-native run-ios```
 
 
-
 About
 ------
-RN version used in this project is 0.59. This project is developed from scratch using react-native cli. I haven't used many third party libraries in this project because I wanted boilerplate to be lite and simple without making complicated code so that others can easily get familiar and also can modify/implement their own changes by forking this repo.😎
+RN version used in this project is 0.60. This project is developed from scratch using react-native cli. I haven't used many third party libraries in this project because I wanted boilerplate to be lite and simple without making complicated code so that others can easily get familiar and also can modify/implement their own changes by forking this repo.😎
 
 Assets
 ------
@@ -94,5 +95,13 @@ This is our API endpoints saving file and we can export it any place and perform
 About PRs and contributing
 ----------------------------
 This repo is always open for upgradation. If you have any idea,suggestions or feedback, please feel free to contact me. We can make this project better together. 🙏🤟
+
+# Screenshots
+![Dashboard](https://i.ibb.co/w6vDCP0/Dashboard.png) ![Guru](https://i.ibb.co/0r7C55Z/Guru.png) 
+<p align="center"><img src="https://i.ibb.co/c2g9ftJ/Profile.png" alt="header image"></p>
+
+**For buisness**
+[Click here to mail.](mailto:grcnation95@gmail.com?subject=[GitHub]%20Buisness%20Query)
+
 
 
