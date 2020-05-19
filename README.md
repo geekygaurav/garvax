@@ -129,5 +129,5 @@ This repo is always open for upgradation. If you have any idea,suggestions or fe
 **For Buisness query**
 📧 [Click here to mail.](mailto:grcnation95@gmail.com?subject=[GitHub]%20Buisness%20Query)
 
-**Have some idea/Need free consultant**
+**Have some idea/Need free consultant 🤝🏻**
 [Feel free to connect](mailto:grcnation95@gmail.com?subject=[GitHub]%20Free%20Consultancy)
