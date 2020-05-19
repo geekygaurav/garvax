@@ -5,14 +5,14 @@
 <p align="center"><img src="https://i.ibb.co/j53GGvt/coffee.png" alt="header image" width="500px"></p>
 
 
-# Key Features
+# 🗝 Key Features 🗝
 1. [React-native version 0.60.](https://reactnative.dev/blog/2019/07/03/version-60)
 2. [Hooks component examples](https://reactjs.org/docs/hooks-intro.html)
 3. [Redux-Hooks.](https://react-redux.js.org/api/hooks)
 4. [TabBar Navigation configuration.](https://reactnavigation.org/docs/tab-based-navigation/)
 5. [Native-base support.](https://nativebase.io/) 
 
-# Announcement
+# 🔊 Announcement 🔊
 
 - **I am looking for collaborators. If interested please drop a mail** [here](https://github.com/gouravrc)
 - **The default app name will be ```garvax```. You can always change it to any name of your wish.**
@@ -22,7 +22,7 @@
 
 **Please checkout my another repo on [native iOS stack view](https://github.com/gouravrc/react-native-stack-view) developed in react-native.**
 
-Installation
+📥 Installation
 ------------
 
 1. Fork/clone this repo.
@@ -101,7 +101,7 @@ This repo is always open for upgradation. If you have any idea,suggestions or fe
 ![Guru](https://i.ibb.co/c2g9ftJ/Profile.png) 
 
 **For buisness**
-[Click here to mail.](mailto:grcnation95@gmail.com?subject=[GitHub]%20Buisness%20Query)
+📧 [Click here to mail.](mailto:grcnation95@gmail.com?subject=[GitHub]%20Buisness%20Query)
 
 
 
