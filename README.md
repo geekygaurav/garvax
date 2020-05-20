@@ -11,6 +11,8 @@
 <img alt="Maintained" src="https://img.shields.io/pypi/l/ansicolortags.svg" />
 <img alt="issues open 0" src="https://img.shields.io/github/issues/Naereen/StrapDown.js.svg" />
 <img alt="open source" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" />
+<img alt="platform android and ios source" src="https://img.shields.io/badge/platforms-Android%20%7C%20iOS-brightgreen.svg?style=flat-square&colorB=191A17" />
+
 </p>
 
 <p align="center"><img src="https://i.ibb.co/j53GGvt/coffee.png" alt="header image" width="500px"></p>
