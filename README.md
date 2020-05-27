@@ -18,7 +18,7 @@
 <p align="center"><img src="https://i.ibb.co/j53GGvt/coffee.png" alt="header image" width="500px"></p>
 
 # 🤷 About
-React Native version used in this project is 0.60. This project is developed from scratch using ```react-native cli```.Not many third party libraries in this project because  others can easily get familiar with the configuration and  can modify/implement their own changes easily.😎
+React Native version used in this project is 0.60. This project is developed from scratch using ```react-native cli```. Not many third party libraries are used in this project because others can easily get familiar with the configuration and  can modify/implement their own changes easily.😎
 
 # 🗝 Key Features 🗝
 1. [React-native version 0.60.](https://reactnative.dev/blog/2019/07/03/version-60)
